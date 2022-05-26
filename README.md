@@ -24,11 +24,11 @@
 - [타입스크립트 공식 문서](https://www.typescriptlang.org/)
 - [Velopert의 타입스크립트 기초](https://velog.io/@velopert/using-react-with-typescript)
 
-  ### TypeScript 개발 환경 설정
+## TypeScript 개발 환경 설정
 
   - tsc(TypeScript Compiler), Webpack, ESLint, Prettier 연동
 
-  ### TypeScript 심화
+## TypeScript 심화
 
 - TypeScript의 [장단점](https://www.rinae.dev/posts/fear-trust-and-javascript-kr)
 - TypeScript로 [Todo 리스트 만들기](https://ts.chibicode.com/todo/)
