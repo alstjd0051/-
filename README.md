@@ -12,7 +12,7 @@
 - ECMAScript [표준 논의 과정](https://ahnheejong.name/articles/ecmascript-tc39/) - Stage 0 : 아이디어 제안 - Stage 1 : 기획 중 - Stage 2 : 개발 중 - Stage 3 : 테스트 중 - Stage 4 : 완성 (다음 버전에 출시)
   3단계부터 출시 확정이라고 볼 수 있다.
 
-# TypeScript
+# [TypeScript]('https://github.com/alstjd0051/FrontEnd-Organizing-vowels/tree/typescript')
 
 만약에 타입스크립트를 한번도 써보지 않았거나 조금만 써봤다면 밑의 모든 글을 읽고 따라해보는 것을 권장합니다. 또한 타입스크립트 공식 문서가 워낙 잘 정리되어 있으니 공식 문서도 한 번 보는걸 권장합니다.
 
